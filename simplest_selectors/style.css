@@ -1,3 +1,21 @@
-div{
-    color:green;
+body{
+    width:200px;
 }
+.b326,#b325 {
+    width: 200px;
+    border-width: 1px;
+    border-style:solid;
+    border-color:green;
+    font-weight:bold;
+  }
+  .big{
+    color:blue;  
+  }
+  
+  p{
+    width:200px;
+    background:yellow;
+  }
+  .b329{
+    font-weight:bold;
+  }
